@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "I am a PhD Candidate at the University of British Columbia, Vancouver"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About
-======
 
 I am a PhD Candidate at the University of British Columbia, Vancouver, where I research what happens when space debris comes back down to Earth, and what we can do about it.
 
