@@ -13,9 +13,9 @@ title                    : "Ewan Wright"
 title_separator          : "-"
 name                     : &name "Ewan Wright"
 description              : &description "PhD Candidate at the University of British Columbia"
-url                      : https://ewanwright.github.io
+url                      : https://etwright1.github.io
 baseurl                  : ""
-repository               : "etwright1/ewanwright.github.io"
+repository               : "etwright1/etwright1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
