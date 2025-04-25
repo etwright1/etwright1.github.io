@@ -5,13 +5,13 @@ permalink: /media/
 author_profile: true
 ---
 
-#Authored  
+# Authored  
 
 SpaceNews (2024) New upper stage disposal rules will help, not harm, US leadership in space  
 
 The Conversation Canada (2023) Over the past six years, governments proposed launching over one million satellites, but where will they all go?
 
-#Interviewed  
+# Interviewed  
 
 Radio-Canada (2025) Les débris de fusée deviennent un risque pour le trafic aérien 
 
